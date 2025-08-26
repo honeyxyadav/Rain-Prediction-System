@@ -32,9 +32,6 @@ K-Means Clustering (unsupervised)
 
 ⚙️ Installation
 
-Clone the repository and install the required dependencies:
-
-git clone https://github.com/your-username/rainfall-prediction.git
 cd rainfall-prediction
 pip install -r requirements.txt
 
